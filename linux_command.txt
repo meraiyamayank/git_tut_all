@@ -1,0 +1,6 @@
+touch - To create a file
+cd - to entering folder 
+rm - to remove file
+mkdir - to create a folder
+ls - to show folders and files
+ls -a - for hiden file visible in linux
